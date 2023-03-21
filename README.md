@@ -18,4 +18,24 @@ Social Buzz is a media company who want:
    
  Social Buzz wants us to provide Big Data insights and content category analysis on the data they have provided.
  
- ## Task 2: Data Cleaning & Modeling
+## Task 2: Data Cleaning & Modeling
+There is a lot of information here and it’s easy to get lost in the data. So, to make sure we are using the right data to answer the business questions we’ll follow these steps:
+•	Requirements gathering - 
+•	Data cleaning
+•	Data modelling
+
+The client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+The end result is in the ‘Clean_Dataset & Top 5 Content.csv’ spreadsheet which contains:
+1.	A cleaned dataset
+2.	The top 5 categories
+
+## Task 3: Data Visualization Explained
+We’ll need to communicate the relevant insights in a way that is clear, concise and engaging for our client and team members.
+This will involve bringing the data to life using visualizations tools like Power BI to create a interactive report "Social Buzz Power_BI_Report.pbix" .
+We have created a powerpoint presentation "Data Analytics and Data Insights- Task 3_final.pptx" for Social Buzz that reports on their content performance.
+
+## Task 4: Present to the Client
+We have created a powerpoint presentation "Data Analytics and Data Insights- Task 3_final.pptx" for Social Buzz that reports on their content performance.
+Explaining about the top categories and sentiment and reaction for the contents.
+
+[LinkedIn Profile](https://www.linkedin.com/in/dr276/)
